@@ -65,4 +65,4 @@ Send all requests to [localhost:8000/](http://127.0.0.1:8000)
 
 ## Functionality
 
-You can view simple endpoint documentation directly from the application by visiting: [localhost:8000/docs](http://127.0.0.1:8000/docs)
+You can view simple endpoint documentation directly from the application by visiting (while the app is running): [localhost:8000/docs](http://127.0.0.1:8000/docs)
